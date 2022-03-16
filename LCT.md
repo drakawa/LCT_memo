@@ -15,10 +15,11 @@
   - specialization: 知識や知者の構造
     - epistemic relation (ER): 認識すること。「知っている人は知っている」こと
     - social relation (SR): 認識によって得られた/知ったこと。一般に知られていること
-  - semantics: 実践における意味論
-    - semantic gravity (SG): 文脈に対する意味の関係性の相対的度合い。
-      - 「わからん」⇒**重く**感じる
-      - 「あーそういうことね」⇒**軽く**なる。頭に理解が残る。次のステップに進める
+  - semantics (semantic codes): 実践における意味論
+    - semantic gravity (SG): 文脈 (context) に対する意味の関係性の相対的度合い。
+      - 抽象的な概念 (context-independence, SG-) に対する具体例 (context-dependent, SG+)
+      - theory (SG-) <-> practice (SG+)
+      - academic (SG-) <-> everyday understandings (SG+)
     - semantic density (SD): 意味の凝縮度合い
       - 難しい/複雑な概念
   - autonomy codes: 文脈またはカテゴリー内外の構成要素の位置づけ
@@ -26,7 +27,10 @@
     - relational autonomy (RA): 文脈またはカテゴリー内外の構成要素の関係に関する位置づけ
   - temporality
   - density
-- transaction devices
+- translation devices
+
+- translation devices for semantics
+  - 
 ### 参考文献
 - https://legitimationcodetheory.com/
 - https://researchmap.jp/inakoayumi/published_papers/16194644/attachment_file.pdf
