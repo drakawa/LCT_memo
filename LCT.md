@@ -14,9 +14,14 @@
 - dimensions: 「知識」と一口に言っても、いろいろな側面がある。それらの抽象化された分類
   - specialization: 知識や知者の構造
     - epistemic relation (ER): 認識すること。「知っている人は知っている」こと
-      - どれくらい「真理」「本質」に近づけているか？知識と本質のつながりの強さ
+      - どれくらい「真理」「本質」に近づけているか？知識と本質のつながりの強さ。教わること重視。到達目標。
     - social relation (SR): 認識によって得られた/知ったこと。一般に知られていること
-      - どれくらい「みんなが知っている」か？知識と人の繋がりの強さ
+      - どれくらい「みんなが知っている」か？知識と人の繋がりの強さ。実践重視。
+
+    - knowledge code (ER+, SR-): 教わる
+    - knower code (ER-, SR+): 実践する
+    - elite code (ER+, SR+): 自ら学ぶ？
+    - relativist code (ER-, SR-): 『何でもいい』
   - semantics (semantic codes): 実践における意味論
     - semantic gravity (SG): 文脈 (context) に対する意味の関係性の相対的度合い。
       - 抽象的な概念 (context-independence, SG-) に対する具体例 (context-dependent, SG+)
