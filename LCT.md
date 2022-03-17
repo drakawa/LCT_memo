@@ -18,7 +18,7 @@
     - social relation (SR): 認識によって得られた/知ったこと。一般に知られていること
       - どれくらい「みんなが知っている」か？知識と人の繋がりの強さ。実践重視。
     - knowledge code (ER+, SR-): 教科書的な知識
-    - knower code (ER-, SR+): 経験・体験。その人固有のもの
+    - knower code (ER-, SR+): 個人的な経験・体験。その人固有のもの
     - elite code (ER+, SR+): その人の性質と一般的な知識の繋がり
     - relativist code (ER-, SR-): 『何でもいい』
   - semantics (semantic codes): 実践における意味論
