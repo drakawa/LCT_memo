@@ -17,8 +17,8 @@
       - どれくらい「真理」「本質」に近づけているか？知識と本質のつながりの強さ。教わること重視。
     - social relation (SR): 認識によって得られた/知ったこと。一般に知られていること
       - どれくらい「みんなが知っている」か？知識と人の繋がりの強さ。実践重視。
-    - knowledge code (ER+, SR-): 教わる
-    - knower code (ER-, SR+): 実践する
+    - knowledge code (ER+, SR-): 教わる？
+    - knower code (ER-, SR+): 実践する？
     - elite code (ER+, SR+): 自ら学ぶ？
     - relativist code (ER-, SR-): 『何でもいい』
   - semantics (semantic codes): 実践における意味論
